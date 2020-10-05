@@ -1,2 +1,2 @@
 # isaac-ng.github.io
-Wbesite for my Profile
+Website for my Profile
